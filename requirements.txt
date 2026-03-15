@@ -1,8 +1,9 @@
 streamlit==1.35.0
-numpy>=1.26
+numpy==2.0.2
 librosa==0.10.1
 matplotlib
 scipy
 praat-parselmouth
 soundfile
 scikit-learn
+pillow==10.3.0
