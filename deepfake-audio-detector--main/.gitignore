@@ -1,0 +1,19 @@
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore compiled cache files
+__pycache__/
+*.pyc
+
+# Ignore dataset or temporary files
+*.npy
+*.npz
+*.wav
+*.mp3
+*.zip
+*.tmp
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
