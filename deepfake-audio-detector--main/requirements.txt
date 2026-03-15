@@ -1,8 +1,8 @@
-streamlit
-librosa
-numpy
-matplotlib
-tensorflow
+streamlit==1.35.0
+librosa==0.10.1
+numpy==1.24.4
+matplotlib==3.7.2
+tensorflow==2.13.0
 scipy
 praat-parselmouth
 soundfile
